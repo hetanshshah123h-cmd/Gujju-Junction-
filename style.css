@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f4ef;
+  color: #3a2c24;
+  line-height: 1.6;
+}
+
+header {
+  background: #8b5e3c;
+  padding: 15px;
+}
+
+header a {
+  color: #fff;
+  margin: 0 12px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: #e8d5c4;
+}
+
+.hero h1 {
+  font-size: 2.5em;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #8b5e3c;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 25px;
+}
+
+section {
+  padding: 50px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+footer {
+  background: #3a2c24;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+/* WhatsApp Button */
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #25d366;
+  color: #fff;
+  padding: 14px 18px;
+  border-radius: 50%;
+  font-size: 22px;
+  text-decoration: none;
+}
